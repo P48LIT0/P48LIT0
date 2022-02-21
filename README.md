@@ -1,12 +1,19 @@
-<h1 align="center">Hi 👋, I'm Paweł</h1>
-<h3 align="center">I am student of Cryptology and Cyber Security from Warsaw, Poland. I am currently in master's studies in Cyber Defence. </h3>
-<h1 align="center">I am student of Cryptology and Cyber Security from Warsaw, Poland. I am currently in master's studies in Cyber Defence. </h1>
+<h1 align="left">Hi there 👋</h1>
+<h3 align="left">I am Paweł. I am student of Cryptology and Cyber Security from Warsaw, Poland. I am currently in master's studies in Cyber Defence. </h3>
 
-- 🔭 I’m currently working on **s**
+<h1 align="left">Education 🔭</h1>
+<h3 align="left"></h3>
 
-- 👯 I’m looking to collaborate on **s**
+- Bachelor of Engineering in Cryptology, Military University of Technology, 2021.
 
-- 🤝 I’m looking for help with **s**
+- Developing programming and cyber security skills
+
+<h1 align="left">Favorite technologies 🤝</h1>
+<h3 align="left"></h3>
+
+- Java
+- Spring
+- Hibernate
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=P48LIT0&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
