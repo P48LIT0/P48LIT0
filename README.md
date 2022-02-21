@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Paweł</h1>
 <h3 align="center">I am student of Cryptology and Cyber Security from Warsaw, Poland. I am currently in master's studies in Cyber Defence. </h3>
-<h3 align="center">I am student of Cryptology and Cyber Security from Warsaw, Poland. I am currently in master's studies in Cyber Defence. </h3>
+<h1 align="center">I am student of Cryptology and Cyber Security from Warsaw, Poland. I am currently in master's studies in Cyber Defence. </h1>
 
 - 🔭 I’m currently working on **s**
 
