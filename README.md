@@ -1,11 +1,14 @@
 <h1 align="center">Hi 👋, I'm Paweł</h1>
 <h3 align="center">I am student of Cryptology and Cyber Security from Warsaw, Poland. I am currently in master's studies in Cyber Defence. </h3>
+<h3 align="center">I am student of Cryptology and Cyber Security from Warsaw, Poland. I am currently in master's studies in Cyber Defence. </h3>
 
 - 🔭 I’m currently working on **s**
 
 - 👯 I’m looking to collaborate on **s**
 
 - 🤝 I’m looking for help with **s**
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=P48LIT0&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 <p align="left">
 </p>
