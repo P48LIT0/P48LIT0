@@ -1,11 +1,11 @@
 <h1 align="left">Hi there 👋</h1>
-<h3 align="left">I am Paweł. I am student of Cryptology and Cyber Security from Warsaw, Poland. I am currently in master's studies in Cyber Defence. </h3>
+<h3 align="left">I am Paweł. I was studying Cryptology and Cyber Security in Warsaw, Poland. I have a master's degree in Cyber Defence. </h3>
 
 <h1 align="left">Education 🔭</h1>
 <h3 align="left"></h3>
 
 - Bachelor of Engineering in Cryptology, Military University of Technology, 2021.
-
+- Master's degree, Military University of Technology, 2022.
 - Developing programming and cyber security skills
 
 <h1 align="left">Favorite technologies 🤝</h1>
@@ -15,6 +15,8 @@
 - Spring
 - Spring Boot
 - Hibernate
+- Kali linux
+- Burpsuite
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=P48LIT0&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
