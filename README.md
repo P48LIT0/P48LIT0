@@ -18,9 +18,6 @@
 - Kali linux
 - Burpsuite
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=P48LIT0&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
-<p align="left">
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
